@@ -139,18 +139,10 @@ These methods trade off:
 - Memory usage
 
 
-## Goal of This Repository
 
-This project explores:
-- Efficient algorithms for least squares problems
-- Trade-offs between different numerical methods
-- Practical implementations for large-scale settings
+##  Resources
 
+For more details, refer to the full paper and implementation:
 
-##  Key Takeaways
-
-- Least squares problems are **ubiquitous** across disciplines
-- Efficiency is critical due to **scale, stability, and real-time demands**
-- Numerical linear algebra provides the **tools and theory** to solve them effectively
-- Improving these methods has **direct impact on modern AI and engineering systems**
-
+-  **Paper**: [Read the full paper](https://doi.org/10.1002/nla.70017)
+-  **MATLAB Code**: [View the implementation](PASTE_YOUR_CODE_LINK_HERE)
